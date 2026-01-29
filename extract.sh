@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# barraquad @ 2026. Use at YOUR OWN RISK!
+
 function extract_7z() {
 
 	# We need to use newline as a field separator
